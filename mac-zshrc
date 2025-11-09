@@ -1,0 +1,8 @@
+alias muttmain="mutt -F ~/.mutt/muttrc"
+alias muttlinux="mutt -F ~/.mutt/muttrc_linux"
+alias gitca="git commit -a -s"
+alias bup="brew upgrade && brew update"
+alias muttconfig="mate ~/.mutt"
+alias gp="git push"
+alias gprb="git pull --rebase"
+alias ddev="cd Documents/Develop"
